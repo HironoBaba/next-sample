@@ -9,7 +9,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Navbar bg="dark" variant="dark">
         <Container>
           <Navbar.Brand href="#home">
-            Hello EC
+            Taylor House
           </Navbar.Brand>
         </Container>
       </Navbar>
